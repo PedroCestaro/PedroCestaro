@@ -1,7 +1,7 @@
 ### Olá!!!
 Tenho 23 anos, ingressando agora em Tecnologia, para tornar a vida das pessoas mais prática!!!
 
-:mag_right: Atualmente estou procurando uma vaga para estágio em Dev !!
+:mag_right: Atualmente estou buscando vagas para Front-end !!
 
 :exclamation: Como estou no começo, ainda não tenho preferencias por área (Front ou Backend), 
 
