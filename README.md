@@ -3,7 +3,7 @@ Tenho 23 anos, ingressando agora em Tecnologia, para tornar a vida das pessoas m
 
 :mag_right: Atualmente estou buscando vagas para Front-end !!
 
-:exclamation: Como estou no começo, ainda não tenho preferencias por área (Front ou Backend), 
+:exclamation:Apesar de investir mais no Frontend, também estou aberto a vagas para Backend, 
 
 
 :zap: Posso colaborar em projetos que envolvam c# e JavaScript
