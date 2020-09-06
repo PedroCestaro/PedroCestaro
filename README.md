@@ -10,5 +10,5 @@ Tenho 23 anos, ingressando agora em Tecnologia, para tornar a vida das pessoas m
 
 :eyes: Além disto também já tive contato com Java e MySql, além de Node.js e React!
 
-:smiley: Pode me encotra no e-mail pedrocmanoel@gmail.com !
+:smiley: Pode me encotrar no e-mail pedrocmanoel@gmail.com !
 
